@@ -10,19 +10,19 @@ Command:
 
 ## installation
 from Pypi
-'''consol
+```bash
 pip install cafe-table
-'''
+```
 
 from source code
-'''consol
+```bash
 git clone <link_github_repo>
 cd cafe-table
 pip install .
-'''
+```
 
 ## Uasge
-'''consol
+```bash
 # Add order
 cafe add
 
@@ -36,4 +36,4 @@ cafe del <id>
 # Delete table
 cafe reset
 cafe res
-'''
+```
