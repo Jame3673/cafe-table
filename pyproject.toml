@@ -1,0 +1,15 @@
+[project]
+name = "cafe-table"
+version = "0.1.0"
+license = "MIT"
+description = "Simple coffee order CLI"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{name="Jame3673", email="ngocminhpham2512@gmail.com"}]
+
+[project.scripts]
+cafe = "cafe.main:main"
+
+[build-system]
+requires = ["setuptools>=65.5.0","wheel"]
+build-backend = "setuptools.build_meta"

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "coffee": "mocha",
+    "customer": "Mike",
+    "note": "X"
+  },
+  {
+    "id": 2,
+    "coffee": "black",
+    "customer": "Tuan",
+    "note": "ice"
+  },
+  {
+    "id": 3,
+    "coffee": "normal",
+    "customer": "Jacob",
+    "note": "cream"
+  }
+]

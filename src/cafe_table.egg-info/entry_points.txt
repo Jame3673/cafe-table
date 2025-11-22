@@ -1,0 +1,2 @@
+[console_scripts]
+cafe = cafe.main:main

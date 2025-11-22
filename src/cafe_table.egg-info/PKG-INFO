@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: cafe-table
+Version: 0.1.0
+Summary: Simple coffee order CLI
+Author-email: Jame3673 <ngocminhpham2512@gmail.com>
+License-Expression: MIT
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
+For more information, please visit my repo
+https://github.com/Jame3673/coffee-table
