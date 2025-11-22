@@ -16,6 +16,7 @@ git clone https://github.com/Jame3673/cafe-table
 cd cafe-table
 pip install .
 ```
+NOTE*: make sure you have python on your computer, if you don't have [click me](https://www.python.org/downloads/)
 
 ## Uasge
 ```bash
