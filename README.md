@@ -16,7 +16,7 @@ pip install cafe-table
 
 from source code
 ```bash
-git clone <link_github_repo>
+git clone https://github.com/Jame3673/cafe-table
 cd cafe-table
 pip install .
 ```
