@@ -9,10 +9,6 @@ Command:
 - "reset" or "res" to clear whole table
 
 ## installation
-from Pypi
-```bash
-pip install cafe-table
-```
 
 from source code
 ```bash
