@@ -93,7 +93,7 @@ def main():
             else:
                 delete(id_to_delete)
 
-    elif command in ("res", "reset"):
+    elif command in ("rs", "reset"):
         reset()
 
 
